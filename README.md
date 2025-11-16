@@ -1,6 +1,6 @@
 ## Задание 1
 
-Найденые бага в задании 1 лежат в файле [task_1.md]()
+Найденые бага в задании 1 лежат в файле [task_1.md](https://github.com/egordmitriev-creator/AvitoTech/blob/main/task_1.md)
 
 ## Задание 2.1 Тестирование API Авито
 
